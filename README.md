@@ -1,5 +1,3 @@
-# Dive-In Kubernetes: Observability, Monitoring & Alerting
+**Note:** This repository is a fork created for a workshop, is no longer actively used, and will be archived/removed.
 
-## Beschreibungstext
-
-Observability, Monitoring & Alerting bilden die Basis eines jeden Produktivbetriebs. In diesem Dive-In Workshop bekommt ihr einen Überblick über den Kube-Prometheus-Stack und Loki/Promtail vermittelt.
+---
